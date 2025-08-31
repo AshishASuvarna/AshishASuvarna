@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ashish Suvarna</h1>
 <h3 align="center">A passionate Master's graduate in Computer Science specializing in Full-Stack Software Engineering.</h3>
 
-- 🛠️ I’m actively looking for **Software Engineer roles,Early career opportunities where I can contribute to building scalable applications and learn from experienced teams**
+- 🛠️ I’m actively looking for **Software Engineer roles, Early career opportunities**
 
 - 🌱 I’m currently learning **AWS**
 
